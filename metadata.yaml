@@ -1,0 +1,26 @@
+_repo: A-Catalogue-of-New-Books-and-New-Editions-1896_47107
+creator:
+  authors:
+  - agent_name: Publishers, Foster
+    gutenberg_agent_id: '44134'
+    url: http://www.gutenberg.org/2009/agents/44134
+  - agent_name: Sands, George W.
+    deathdate: 1874
+    gutenberg_agent_id: '784'
+    url: http://www.gutenberg.org/2009/agents/784
+  - agent_name: Bliss, Sylvester
+    birthdate: 1814
+    deathdate: 1863
+    gutenberg_agent_id: '32139'
+    url: http://www.gutenberg.org/2009/agents/32139
+description: ''
+gutenberg_issued: '2014-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: A Catalogue of New Books and New Editions, 1896
+url: http://www.gutenberg.org/ebooks/47107
